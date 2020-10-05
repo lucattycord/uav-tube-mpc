@@ -1,3 +1,6 @@
+Thank HiroIshida for the code. https://github.com/HiroIshida/robust-tube-mpc .   His code mainly focues on the 2-state system, and I edit it to the 6-state.
+
+
 # Robust Model Predictive Control Using Tube
 This repository includes examples for the tube model predictive control (tube-MPC)[1] as well as the generic model predictive control (MPC) written in MATLAB.
 
